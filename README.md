@@ -27,3 +27,5 @@ Being **Prefault** the state of the electrical network before the fault, and **F
 Being AmpR, AmpS and AmpT the corresponding amplitude of the injected pulse.
 R_fault the fault impedance used.
 And Fault_dist and Fault_time, the distance or time where the fault is happening.
+
+[![DOI](https://zenodo.org/badge/565257241.svg)](https://zenodo.org/badge/latestdoi/565257241)
